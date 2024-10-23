@@ -1,5 +1,6 @@
 # About Me:
 I'm Tarik,  
+
 a 2nd-year Data Science/Engineering student at the Institut National des Postes et Télécommunications (INPT) in Rabat.  
 
 I'm passionate about Artificial Intelligence and the latest innovations in the AI and data space.  

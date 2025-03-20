@@ -2,7 +2,7 @@
 
 I'm Tarik, a 2nd-year Data Science/Engineering student at the Institut National des Postes et Télécommunications (INPT) in Rabat.
 
-I'm passionate about Artificial Intelligence and exploring new possibilities with software development. As a Java and software enthusiast, I enjoy solving complex problems and building impactful solutions.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-el-oukili-159637219/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19802591) 

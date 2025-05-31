@@ -14,7 +14,6 @@ I'm Tarik, a 2nd-year Data Science/Engineering student at the Institut National 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TarikEloukili&theme=radical&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&exclude_repo=jupyter-notebooks)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarikEloukili&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikEloukili&theme=radical&hide_border=false&layout=compact&exclude_repo=jupyter-notebooks)  
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TarikEloukili&limit=5&theme=dark&combine_all_yearly_contributions=true)

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Tarik El Oukili</h1>
+<h1 align="center">Hi there, I'm Tarik El Oukili</h1>
 <h3 align="center">2nd-year Data Science & Data Engineering student at INPT, Rabat</h3>
 
 ---
@@ -9,15 +9,20 @@
   <a href="https://www.linkedin.com/in/tarik-el-oukili/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  
   <a href="https://www.kaggle.com/tarikeloukili" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+
   <a href="https://stackoverflow.com/users/19802591" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
+
+  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  
+  
 </p>
 
 ---
@@ -68,6 +73,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TarikEloukili&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Visit Counter"/>
-</p>

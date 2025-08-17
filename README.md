@@ -3,11 +3,6 @@
 <h1 align="center">Hi there, I'm Tarik El Oukili </h1>
 <h3 align="center">Data Science & Data Engineering @ INPT (Rabat, Morocco)</h3>
 
-<p align="center">
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=TarikEloukili&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ##  Connect with Me

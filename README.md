@@ -1,120 +1,106 @@
 <!-- Profile README — @TarikEloukili -->
 
-<h1 align="center">Hi there, I'm Tarik El Oukili </h1>
-<h3 align="center">Data Science & Data Engineering @ INPT (Rabat, Morocco)</h3>
+<!-- ======= Banner ======= -->
+<!-- Option A: Static header image in your repo root -->
+![Header](./header.png)
 
----
+<!-- Option B: Local animated GIF banner (upload to /assets/banner.gif in this repo) -->
+<!-- <p align="center"><img src="assets/banner.gif" alt="Tarik El Oukili — banner" /></p> -->
 
-##  Connect with Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TarikEloukili&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p>
-  <a href="https://www.linkedin.com/in/tarik-el-oukili/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/tarikeloukili" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://stackoverflow.com/users/19802591" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+<h3 align="center">Final‑year Data Engineering student @ INPT (Rabat, Morocco)</h3>
+
+<!-- Small greeting GIF (upload a tiny, lightweight GIF) -->
+<p align="center">
+  <!-- Replace with your own file: /assets/wave.gif (≈200–400 KB) -->
+  <img src="assets/wave.gif" alt="Hi!" height="40" />
 </p>
 
 ---
 
-##  About Me
+## 📫 Connect with Me
 
--  final year student in **Data Engineering** at **INPT** (Rabat).
--  Interested in **ML/DL**, **Data Science**, **Data Pipelines**, and **MLOps**.
--  Building on **AWS** (EC2, S3, Lambda, EMR, Glue, Step Functions, Athena, Redshift, SageMaker).
--  Open to **internships** and **collaborations** on AI/Data projects.
+<p align="center">
+  <!-- Skill Icons: linkedin, gmail are available; Kaggle/LeetCode are not in Skill Icons -->
+  <a href="https://www.linkedin.com/in/tarik-el-oukili/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tarik.eloukili@outlook.com" target="_blank" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Keep LeetCode/Kaggle as text links so we stay 100% Skill Icons for images -->
+  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="42" alt="LeetCode"/>
+  </a>
+  <a href="https://www.kaggle.com/tarikeloukili" target="_blank">
+    <img src="https://img.icons8.com/windows/32/1FB6FF/kaggle.png" height="32" width="32" alt="Kaggle"/>
+  </a>
 
----
-
-##  Selected Projects
-
--  **Smart Support Assistant (RAG + RLHF)**  
-  Backend with **FastAPI** + **LangChain**, feedback to **PostgreSQL**, vectors in **ChromaDB**.  
-  *Focus*: retrieval quality, reward modeling, and feedback loops.
-
--  **Scalable ETL on AWS with Spark & Snowflake**  
-  Ingest via Adzuna API → **S3** → transform in **Glue/Spark** → load with **Snowpipe** → orchestrate via **Step Functions/EventBridge**.
-
--  **Stock Sentiment Dashboard**  
-  Real‑time news sentiment with **TensorFlow** model, **Streamlit** UI, containerized with **Docker**.
-
--  **Kaggle: Optiver — Trading at the Close**  
-  5M+ rows, feature engineering, **Random Forest**, **backtesting**, achieved **0.88 validation precision**.
-
--  **YOLOv5 Vehicle/Object Detection**  
-  Real‑time inference on video streams with bounding box overlays.
-
+</p>
 
 ---
 
-##  Tech Stack
+## 🙋‍♂️ About Me
+- 🎓 Final‑year student in **Data Engineering** at **INPT**.
+- 🔭 Interests: **ML/DL**, **Data Platforms**, **Distributed Systems**, **MLOps**.
+- ☁️ Building on **AWS**: EC2, S3, Lambda, EMR, Glue, Step Functions, Athena, Redshift, SageMaker.
+- 🤝 Open to internships & collaborations on AI/Data projects.
 
-###  Languages
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=flat&logo=scala&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat&logo=postgresql&logoColor=white)
+---
 
-###  ML / DL
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1A1A1A.svg?style=flat&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=flat&logo=huggingface&logoColor=000)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A0A0A.svg?style=flat)
+## 🛠️ Tech Stack (Skill Icons)
 
-###  Data / Big Data
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FF8300.svg?style=flat&logo=apache&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?style=flat&logo=apacheairflow&logoColor=white)
-![HBase](https://img.shields.io/badge/HBase-EA3D2F.svg?style=flat)
-![Hive](https://img.shields.io/badge/Hive-FDEE21.svg?style=flat&logo=apachehive&logoColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0A.svg?style=flat)
+<!-- Tip: perline condenses rows; theme can be 'dark' (default) or 'light' -->
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,scala,r,c,bash&perline=12" height="40" />
+</p>
 
-###  Backend / APIs / Apps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![REST](https://img.shields.io/badge/REST-333333.svg?style=flat)
-![System%20Design](https://img.shields.io/badge/System%20Design-333333.svg?style=flat)
+### Data / Databases / Messaging
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,kafka&perline=12" height="40" />
+</p>
 
-###  Cloud (AWS)
-![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900.svg?style=flat&logo=aws-lambda&logoColor=white)
-![EMR](https://img.shields.io/badge/EMR-FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B.svg?style=flat&logo=aws&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF.svg?style=flat&logo=amazon-redshift&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-0091D5.svg?style=flat&logo=amazonaws&logoColor=white)
-![QuickSight](https://img.shields.io/badge/QuickSight-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+### ML / Data Science Tooling
+<p align="center">
+  <!-- sklearn, pytorch, tensorflow are available; add opencv + jupyter + anaconda for DS workflow -->
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,anaconda&perline=12" height="40" />
+</p>
 
-###  Tooling
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+### Backend / Apps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react&perline=12" height="40" />
+</p>
 
+### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&perline=12" height="40" />
+</p>
+
+### Other
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex&perline=12" height="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarikEloukili&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikEloukili&theme=radical&hide_border=false" height="170" />
+</p>
+
+<!-- Optional: top languages (be mindful it looks at public repos only) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikEloukili&layout=compact&theme=radical&hide_border=false&langs_count=8" height="170" />
+</p>
+
+---
 
 
 

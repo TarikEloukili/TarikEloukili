@@ -2,22 +2,22 @@
 
 <!-- ======= Banner ======= -->
 <!-- Option A: Static header image in your repo root -->
-![Header](./header.png)
+<h1 align="center">Hello, I'm Tarik El Oukili</h1>
 
 <!-- Option B: Local animated GIF banner (upload to /assets/banner.gif in this repo) -->
 <!-- <p align="center"><img src="assets/banner.gif" alt="Tarik El Oukili — banner" /></p> -->
+
+
+
+<h3 align="center">Final‑year Data Engineering student @ INPT (Rabat, Morocco)</h3>
+
+--- 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TarikEloukili&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="center">Final‑year Data Engineering student @ INPT (Rabat, Morocco)</h3>
 
-<!-- Small greeting GIF (upload a tiny, lightweight GIF) -->
-<p align="center">
-  <!-- Replace with your own file: /assets/wave.gif (≈200–400 KB) -->
-  <img src="assets/wave.gif" alt="Hi!" height="40" />
-</p>
 
 ---
 

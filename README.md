@@ -95,10 +95,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikEloukili&theme=radical&hide_border=false" height="170" />
 </p>
 
-<!-- Optional: top languages (be mindful it looks at public repos only) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikEloukili&layout=compact&theme=radical&hide_border=false&langs_count=8" height="170" />
-</p>
+
 
 ---
 

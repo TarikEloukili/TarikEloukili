@@ -53,12 +53,12 @@
 
 ---
 
-## 🛠️ Tech Stack (Skill Icons)
+## 🛠️ Tech Stack
 
 <!-- Tip: perline condenses rows; theme can be 'dark' (default) or 'light' -->
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,scala,r,c,bash&perline=12" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,scala,r,c,bash&perline=12" height="40" />
 </p>
 
 ### Data / Databases / Messaging
@@ -69,7 +69,7 @@
 ### ML / Data Science Tooling
 <p align="center">
   <!-- sklearn, pytorch, tensorflow are available; add opencv + jupyter + anaconda for DS workflow -->
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,anaconda&perline=12" height="40" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,anaconda&perline=12" height="40" />
 </p>
 
 ### Backend / Apps

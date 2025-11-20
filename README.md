@@ -35,7 +35,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="32" width="32" alt="HackerRank"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/tarik-el-oukili/](https://stackoverflow.com/users/19802591/tarik)" target="_blank" title="LinkedIn">
+  <a href="https://stackoverflow.com/users/19802591/tarik" target="_blank" title="LinkedIn">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg?v=6e4af45f4d66" height="32" alt="LinkedIn"/>
   </a>
 </p>

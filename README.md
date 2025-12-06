@@ -23,9 +23,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank" title="LeetCode">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="42" alt="LeetCode"/>
-  </a>
+
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/tarikeloukili" target="_blank" title="Kaggle">
     <img src="https://img.icons8.com/windows/32/1FB6FF/kaggle.png" height="32" width="32" alt="Kaggle"/>

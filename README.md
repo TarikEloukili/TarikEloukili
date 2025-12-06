@@ -14,7 +14,7 @@
 
 ##  Connect with Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/tarik-el-oukili/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
   </a>
@@ -36,7 +36,7 @@
   <a href="https://stackoverflow.com/users/19802591/tarik?tab=profile" target="_blank" title="LinkedIn">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg?v=6e4af45f4d66" height="32" alt="LinkedIn"/>
   </a>
-</p>
+</p> -->
 
 ---
 

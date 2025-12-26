@@ -4,11 +4,7 @@
 <h1 align="center"> Salamo Alaykom, I'm Tarik El Oukili</h1>
 <h3 align="center">Final-year Data Engineering Student @ INPT (Rabat, Morocco)</h3>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TarikEloukili&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 

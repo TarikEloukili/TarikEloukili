@@ -74,10 +74,18 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&perline=12" height="40" />
 </p>
 
+
 ###  Other
 <p align="center">
   <img src="https://skillicons.dev/icons?i=latex&perline=12" height="40" />
 </p>
 
+---
+## Github Statistics
 
-
+<p align="center">
+  <a href="https://github.com/TarikEloukili">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TarikEloukili&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarikEloukili&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>

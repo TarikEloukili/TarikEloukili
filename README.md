@@ -2,7 +2,7 @@
 
 <!-- ======= Banner ======= -->
 <h1 align="center"> Salamo Alaykom, I'm Tarik El Oukili</h1>
-<h3 align="center">Final-year Data Engineering Student @ INPT (Rabat, Morocco)</h3>
+<h3 align="center">Data Engineer @ BCG X</h3>
 
 
 
@@ -13,10 +13,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tarik-el-oukili/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tarik.eloukili@outlook.com" target="_blank" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank" title="LeetCode">
@@ -39,48 +35,12 @@
 ---
 
 ##  About Me
--  Final-year **Data Engineering** student at **INPT** (Rabat, Morocco).  
--  Interested in **Machine Learning, Deep Learning, Distributed Systems, MLOps, and Data Platforms**.  
--  Skilled with **AWS Cloud** (EC2, S3, Lambda, EMR, Glue, Step Functions, Athena, Redshift, SageMaker).  
+-  Interested in **Data Engineering, ML/DL, Distributed Systems, MLOps**.  
 -  Always exploring ways to bridge **theory with real-world data challenges**.  
--  Open to internships, collaborations, and research in AI/Data fields.  
 
 ---
 
-##  Tech Stack
 
-###  Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,scala,r,c,bash&perline=12" height="40" />
-</p>
-
-###  Data / Databases / Messaging
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,kafka&perline=12" height="40" />
-</p>
-
-###  ML / Data Science Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,anaconda&perline=12" height="40" />
-</p>
-
-###  Backend / Apps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react&perline=12" height="40" />
-</p>
-
-###  Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&perline=12" height="40" />
-</p>
-
-
-###  Other
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=latex&perline=12" height="40" />
-</p>
-
----
 ## Github Statistics
 
 <p align="center">
